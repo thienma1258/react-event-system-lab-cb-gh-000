@@ -2,10 +2,10 @@
 import React from 'react';
 export default class Keypad extends React.Component {
   constructor() {
-    
+
   }
   onKeyUp=()=>{
-    console.log("Good!")
+    console.log("Entering password...!")
   }
 
   render(){
